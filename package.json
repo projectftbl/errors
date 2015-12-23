@@ -1,6 +1,6 @@
 {
   "name": "@ftbl/errors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Server errors",
   "main": "node index",
   "scripts": {
@@ -28,4 +28,3 @@
     "sinon-chai": "^2.8.0"
   }
 }
-
