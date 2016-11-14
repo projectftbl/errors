@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/errors",
+  "name": "@recipher/errors",
   "version": "1.0.0",
   "description": "Server errors",
   "main": "node index",
@@ -14,11 +14,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/errors.git"
+    "url": "git@github.com:recipher/errors.git"
   },
   "dependencies": {},
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",

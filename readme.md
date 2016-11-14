@@ -1,4 +1,4 @@
-## @ftbl/errors
+## @recipher/errors
 
 Server errors.
 
